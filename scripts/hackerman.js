@@ -1,3 +1,18 @@
+// Description:
+//   Returns a random Hackerman's quote
+//
+// Dependencies:
+//   None
+//
+// Configuration:
+//   None
+//
+// Commands:
+//   say something - Reply with an epic quote
+//
+// Author:
+//   pric
+
 var quotes = [
 	'Follow me',
 	'I was able to triangulate the cell phone signal and trace the caller',
