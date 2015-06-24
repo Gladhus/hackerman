@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   say something - Reply with an epic quote
+//   hackerman say something - Reply with an epic quote
 //
 // Author:
 //   pric

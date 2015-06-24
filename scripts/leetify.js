@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   leetify <text> - Leetifies the <text>
+//   hackerman leetify <text> - Leetifies the <text>
 //
 // Author:
 //   pric
