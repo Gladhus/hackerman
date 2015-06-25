@@ -1,6 +1,7 @@
 // Description:
 //   Decodes text in different format
-//	 Current encryptions:
+//
+// Current encryptions:
 //	  - Base64
 //		- Binary
 //
