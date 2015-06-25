@@ -27,4 +27,5 @@ var base64_to_utf8 = function(msg)
 module.exports = function(robot)
 {
 	robot.respond(/base64 encode (.*)/i, utf8_to_base64);
+	robot.response(/base64 decode (.*)/i, base64_to_utf8);
 }
