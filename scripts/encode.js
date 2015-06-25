@@ -27,9 +27,9 @@ var utf8_to_binary = function(msg)
 {
 	var text = msg.match[1];
 	var length = text.length,
-	output = [],
+	output = [];
 	for (var i = 0;i < length; i++) {
-		var bin = msg[i].charCodeAt().toString(2);
+		var bin = text[i].charCodeAt().toString(2);
 		output.push(Array(8-bin.length+1).join("0") + bin);
 	}
 	msg.send(output.join(" "));
