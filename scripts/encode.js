@@ -1,6 +1,7 @@
 // Description:
 //   Encodes text in different format
-//	 Current encryptions:
+//
+// Current encryptions:
 //	  - Base64
 //		- Binary
 //
@@ -15,7 +16,7 @@
 //																							in the encryption chosen.
 //
 // Authors:
-//	 Charles-Antoine Chartrand
+//   Charles-Antoine Chartrand
 //   David Lebrun
 
 var utf8_to_base64 = function(msg)
