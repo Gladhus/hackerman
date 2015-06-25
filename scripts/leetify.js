@@ -1,3 +1,18 @@
+// Description:
+//   Leetifies the text
+//
+// Dependencies:
+//   None
+//
+// Configuration:
+//   None
+//
+// Commands:
+//   hackerman leetify <text> - Leetifies the <text>
+//
+// Author:
+//   pric
+
 var leetConverter = require('j4y35');
 
 var leetify = function(sentence) {
