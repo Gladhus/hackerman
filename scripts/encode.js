@@ -37,6 +37,6 @@ var utf8_to_binary = function(msg)
 
 module.exports = function(robot)
 {
-	robot.respond(/encode base34 (.*)/i, utf8_to_base64);
+	robot.respond(/encode base64 (.*)/i, utf8_to_base64);
 	robot.respond(/encode binary (.*)/i, utf8_to_binary);
 }
