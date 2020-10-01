@@ -30,6 +30,9 @@ var quotes = [
 	'The modem is what lets us bypass the grid relay and penetrate the great barier into space time. Obviously',
 	'Yeah, I\'ll insert my external drive, ladies',
 	'I\'m going to have to go with the hardcore hacking mode',
+    'I was able to triangulate the cell phone signal and trace the caller. His name is Adolf Hitler.',
+    'Hackerman. He\'s the most powerful hacker of all time.',
+    'Wait a minute. Using an RX modulator, I might be able to conduct a mainframe cell direct and hack the uplink to the download.'
 ];
 
 var random = function(minimum, maximum) {
